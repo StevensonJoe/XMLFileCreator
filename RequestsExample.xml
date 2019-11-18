@@ -1,0 +1,65 @@
+<slots>
+<slot>
+<Node1 />
+<Node2 />
+<Node3 />
+<Node4 />
+<CollectionWindowStart>2019-11-18 18:00:00</CollectionWindowStart>
+<CollectionWindowEnd>2019-11-19 06:00:00</CollectionWindowEnd>
+<DeliveryWindowStart>2019-11-18 20:00:00</DeliveryWindowStart>
+<DeliveryWindowEnd>2019-11-19 23:00:00</DeliveryWindowEnd>
+<DestinationRef>SITE0001</DestinationRef>
+<Priority />
+<SourceRef>SITE0001</SourceRef>
+<RequestDate>18-Nov-19</RequestDate>
+<BookingDate>18-Nov-19</BookingDate>
+<PercentFill />
+<CreatedBy />
+<Comments />
+<PriorityType />
+<DeliveryDate>19-Nov-19</DeliveryDate>
+<TargetDeliveryTime>2019-11-19 23:00:00</TargetDeliveryTime>
+</slot>
+<slot>
+<Node1 />
+<Node2 />
+<Node3 />
+<Node4 />
+<CollectionWindowStart>2019-11-19 18:00:00</CollectionWindowStart>
+<CollectionWindowEnd>2019-11-20 06:00:00</CollectionWindowEnd>
+<DeliveryWindowStart>2019-11-19 20:00:00</DeliveryWindowStart>
+<DeliveryWindowEnd>2019-11-20 23:00:00</DeliveryWindowEnd>
+<DestinationRef>SITE0002</DestinationRef>
+<Priority />
+<SourceRef>SITE0002</SourceRef>
+<RequestDate>18-Nov-19</RequestDate>
+<BookingDate>19-Nov-19</BookingDate>
+<PercentFill />
+<CreatedBy />
+<Comments />
+<PriorityType />
+<DeliveryDate>20-Nov-19</DeliveryDate>
+<TargetDeliveryTime>2019-11-20 23:00:00</TargetDeliveryTime>
+</slot>
+<slot>
+<Node1 />
+<Node2 />
+<Node3 />
+<Node4 />
+<CollectionWindowStart>2019-11-19 18:00:00</CollectionWindowStart>
+<CollectionWindowEnd>2019-11-20 06:00:00</CollectionWindowEnd>
+<DeliveryWindowStart>2019-11-19 20:00:00</DeliveryWindowStart>
+<DeliveryWindowEnd>2019-11-20 23:00:00</DeliveryWindowEnd>
+<DestinationRef>SITE0003</DestinationRef>
+<Priority />
+<SourceRef>SITE0003</SourceRef>
+<RequestDate>18-Nov-19</RequestDate>
+<BookingDate>19-Nov-19</BookingDate>
+<PercentFill />
+<CreatedBy />
+<Comments />
+<PriorityType />
+<DeliveryDate>20-Nov-19</DeliveryDate>
+<TargetDeliveryTime>2019-11-20 23:00:00</TargetDeliveryTime>
+</slot>
+</slots>
